@@ -1,0 +1,6 @@
+1..Net -> bootstrap learning
+2.stackoverflow activity
+3.blog post writing
+4.plugin reading
+5..Net document
+

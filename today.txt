@@ -1,0 +1,10 @@
+6/10/2015
+1.installed wamp server
+2.visited stack overflow for 1:30 hours
+3.created blog progtec.wordpress.com
+
+7/10/2015
+1.answered one question in stackoverflow 
+2.tortoise svn
+3.git
+4.mvc tutorial from scratch
